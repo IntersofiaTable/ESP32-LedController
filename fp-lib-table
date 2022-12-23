@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Esp32NodeMCU")(type "KiCad")(uri "${KIPRJMOD}/Library/Esp32NodeMCU")(options "")(descr ""))
+  (lib (name "ESP32-Devkitv1")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32-Devkitv1")(options "")(descr ""))
 )
